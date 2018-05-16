@@ -1,0 +1,11 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  pool: 2
+  url: 'postgresql://postgres:postgres@testinstance.cz2r6qae51hf.us-east-1.rds.amazonaws.com/testdb'
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  pool: 2
+  url: 'postgresql://postgres:postgres@testinstance.cz2r6qae51hf.us-east-1.rds.amazonaws.com/testdb'

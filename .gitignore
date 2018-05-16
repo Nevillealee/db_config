@@ -1,0 +1,3 @@
+.rvmrc
+db/database.yml
+.env
